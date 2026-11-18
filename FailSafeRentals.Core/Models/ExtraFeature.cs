@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace FailSafeRentals.ConsoleApp.Models;
+namespace FailSafeRentals.Core.Models;
 
 public class ExtraFeature
 {

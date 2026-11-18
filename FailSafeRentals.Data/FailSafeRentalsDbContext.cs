@@ -1,6 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-
-using FailSafeRentals.ConsoleApp.Models;
+using FailSafeRentals.Core.Models;
 
 namespace FailSafeRentals.ConsoleApp.Data;
 

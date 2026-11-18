@@ -1,4 +1,4 @@
-﻿namespace FailSafeRentals.ConsoleApp.Models;
+﻿namespace FailSafeRentals.Core.Models;
 
 public class Rental
 {

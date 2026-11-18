@@ -1,8 +1,6 @@
 ﻿using FailSafeRentals.ConsoleApp.Data;
-using FailSafeRentals.ConsoleApp.Models;
-
+using FailSafeRentals.Core.Models;
 using Microsoft.EntityFrameworkCore;
-
 using System.Diagnostics;
 
 using var _db = new FailSafeRentalsDbContext();
